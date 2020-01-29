@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c163afe2182913b031c6be4111218699",
+    "revision": "b2b4428f536e73de6b923905eebebd29",
     "url": "/react-axios-reddit/index.html"
   },
   {
-    "revision": "cc3c9853db0d8efcb371",
+    "revision": "1af79a1dcb730e2060d9",
     "url": "/react-axios-reddit/static/css/main.11921e70.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-axios-reddit/static/js/2.8487fa21.chunk.js.LICENSE"
   },
   {
-    "revision": "cc3c9853db0d8efcb371",
-    "url": "/react-axios-reddit/static/js/main.6f3c0c49.chunk.js"
+    "revision": "1af79a1dcb730e2060d9",
+    "url": "/react-axios-reddit/static/js/main.298c0fef.chunk.js"
   },
   {
     "revision": "b22cf2115a8f2957bae2",

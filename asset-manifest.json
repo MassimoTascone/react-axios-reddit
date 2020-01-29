@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-axios-reddit/static/css/main.11921e70.chunk.css",
-    "main.js": "/react-axios-reddit/static/js/main.6f3c0c49.chunk.js",
-    "main.js.map": "/react-axios-reddit/static/js/main.6f3c0c49.chunk.js.map",
+    "main.js": "/react-axios-reddit/static/js/main.298c0fef.chunk.js",
+    "main.js.map": "/react-axios-reddit/static/js/main.298c0fef.chunk.js.map",
     "runtime-main.js": "/react-axios-reddit/static/js/runtime-main.5a7164f9.js",
     "runtime-main.js.map": "/react-axios-reddit/static/js/runtime-main.5a7164f9.js.map",
     "static/js/2.8487fa21.chunk.js": "/react-axios-reddit/static/js/2.8487fa21.chunk.js",
     "static/js/2.8487fa21.chunk.js.map": "/react-axios-reddit/static/js/2.8487fa21.chunk.js.map",
     "index.html": "/react-axios-reddit/index.html",
-    "precache-manifest.3b592a68e3eac0a174d4334b0f1a5d6c.js": "/react-axios-reddit/precache-manifest.3b592a68e3eac0a174d4334b0f1a5d6c.js",
+    "precache-manifest.cc7c1abb22fcbe82f24022551af11fb7.js": "/react-axios-reddit/precache-manifest.cc7c1abb22fcbe82f24022551af11fb7.js",
     "service-worker.js": "/react-axios-reddit/service-worker.js",
     "static/css/main.11921e70.chunk.css.map": "/react-axios-reddit/static/css/main.11921e70.chunk.css.map",
     "static/js/2.8487fa21.chunk.js.LICENSE": "/react-axios-reddit/static/js/2.8487fa21.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5a7164f9.js",
     "static/js/2.8487fa21.chunk.js",
     "static/css/main.11921e70.chunk.css",
-    "static/js/main.6f3c0c49.chunk.js"
+    "static/js/main.298c0fef.chunk.js"
   ]
 }
