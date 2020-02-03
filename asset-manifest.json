@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-axios-reddit/static/css/main.495d8d02.chunk.css",
-    "main.js": "/react-axios-reddit/static/js/main.9843c4f1.chunk.js",
-    "main.js.map": "/react-axios-reddit/static/js/main.9843c4f1.chunk.js.map",
+    "main.css": "/react-axios-reddit/static/css/main.fd2a272f.chunk.css",
+    "main.js": "/react-axios-reddit/static/js/main.cbfc58b2.chunk.js",
+    "main.js.map": "/react-axios-reddit/static/js/main.cbfc58b2.chunk.js.map",
     "runtime-main.js": "/react-axios-reddit/static/js/runtime-main.5a7164f9.js",
     "runtime-main.js.map": "/react-axios-reddit/static/js/runtime-main.5a7164f9.js.map",
     "static/js/2.8487fa21.chunk.js": "/react-axios-reddit/static/js/2.8487fa21.chunk.js",
     "static/js/2.8487fa21.chunk.js.map": "/react-axios-reddit/static/js/2.8487fa21.chunk.js.map",
     "index.html": "/react-axios-reddit/index.html",
-    "precache-manifest.4406a9b8497c4bdb177cea6e3a9e547f.js": "/react-axios-reddit/precache-manifest.4406a9b8497c4bdb177cea6e3a9e547f.js",
+    "precache-manifest.10676a51d160d05cac0bfaafa6dec36e.js": "/react-axios-reddit/precache-manifest.10676a51d160d05cac0bfaafa6dec36e.js",
     "service-worker.js": "/react-axios-reddit/service-worker.js",
-    "static/css/main.495d8d02.chunk.css.map": "/react-axios-reddit/static/css/main.495d8d02.chunk.css.map",
+    "static/css/main.fd2a272f.chunk.css.map": "/react-axios-reddit/static/css/main.fd2a272f.chunk.css.map",
     "static/js/2.8487fa21.chunk.js.LICENSE": "/react-axios-reddit/static/js/2.8487fa21.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.5a7164f9.js",
     "static/js/2.8487fa21.chunk.js",
-    "static/css/main.495d8d02.chunk.css",
-    "static/js/main.9843c4f1.chunk.js"
+    "static/css/main.fd2a272f.chunk.css",
+    "static/js/main.cbfc58b2.chunk.js"
   ]
 }
